@@ -1,5 +1,10 @@
 # vue3-essential
 
+main.js
+```
+AddMockData() //第一次运行，在main.js 添加这行代码，生成测试数据
+```
+
 ## Project setup
 ```
 npm install
